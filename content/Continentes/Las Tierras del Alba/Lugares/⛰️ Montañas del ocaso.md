@@ -1,0 +1,14 @@
+---
+tipo: lugar
+nombre: Montañas del ocaso
+categoria: entorno-natural
+region: Las Tierras del Alba
+tags:
+  - locacion/montana
+  - tierras-del-alba
+  - estado/placeholder
+---
+
+## Información general
+
+*(Pendiente de completar — no hay datos en el export original)*
