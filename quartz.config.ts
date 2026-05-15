@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "es-ES",
     baseUrl: "cairil.gmoran.dev",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "AGENTS.md"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
