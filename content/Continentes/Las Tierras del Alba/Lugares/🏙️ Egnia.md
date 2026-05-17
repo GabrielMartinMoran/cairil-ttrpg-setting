@@ -10,13 +10,13 @@ tags:
 ---
 
 > [!info] La ciudad mercante por excelencia
-> Su gran posicionamiento, el acceso al Mar del Albor y su urbanismo preparado para carretas mercantes la convierten en el mejor lugar del continente para conseguir toda variedad de productos.
+> Su gran posicionamiento, el acceso al [[🌊 Mar del Albor|Mar del Albor]] y su urbanismo preparado para carretas mercantes la convierten en el mejor lugar del continente para conseguir toda variedad de productos.
 
 ![](https://i.imgur.com/G114e62.jpg)
 
 ## Información general
 
-Cuando se habla de ciudades mercantes, Egnia es la ciudad por excelencia. Su gran posicionamiento con respecto a las otras ciudades cercanas, el acceso al Mar del Albor y su urbanismo preparado para la entrada y salida de carretas mercantes ha convertido a esta ciudad en el mejor lugar del continente para conseguir toda variedad de productos, tanto comunes como exóticos.
+Cuando se habla de ciudades mercantes, Egnia es la ciudad por excelencia. Su gran posicionamiento con respecto a las otras ciudades cercanas, el acceso al [[🌊 Mar del Albor|Mar del Albor]] y su urbanismo preparado para la entrada y salida de carretas mercantes ha convertido a esta ciudad en el mejor lugar del continente para conseguir toda variedad de productos, tanto comunes como exóticos.
 
 ### Población
 

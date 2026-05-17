@@ -6,8 +6,6 @@ region: Las Tierras del Alba
 tags:
   - locacion/ciudad
   - tierras-del-alba
-  - faccion/capas-grises
-  - arco/1
 ---
 
 > [!info] Una ciudad de canales y tiranía
@@ -38,32 +36,6 @@ Aproximadamente **100 guardias** (1 cada 20 personas).
 - Patrullas normales: grupos de **5**
 - Situaciones de alerta: grupos de **8**
 
-### Los Capas Grises
-
-Un grupo conocido como **los Capas Grises** reúne miembros en secreto para derrocar al tirano Baldceol. Esta orden es una desviación de los **Capas Grises de la Tormenta** (orden original creada hace aprox. 400 años). Esta variante surgió hace 12 años para tratar de influir en los gobiernos de distintas ciudades hasta el punto de apoderarse de ellos si es posible.
-
-El primer eslabón de esta variante se formó en Elyok, y luego se expandieron a: **Gormaliam**, **Luthiel**, **Egnia** y **Grimreen**. Para que no caigan todos a la vez, cada líder capa gris conoce solamente a los líderes de otras dos ciudades.
-
-En Elyok, los Capas Grises son comandados por el mago **Mifrith Stormstep** y compuestos por otros 4 miembros:
-
-- **Berwald Shortfeet**
-- **Antine Ligrim**
-- **Maximilian Peald**
-- **Donafreddo**
-
-#### Los Capas Grises de la Tormenta (originales)
-
-Orden fundada hace aproximadamente 400 años para liberar a un pueblo en las cercanías de lo que ahora es Elyok de una aberración que consumía la mente de todos aquellos que se oponían a arrodillarse ante él.
-
-Miembros originales:
-- **Misseltoe Stormstep** — clérigo humano devoto de Tyr
-- **Eline Goldmoon** — mediana pícara
-- **Venroris Ferderi** — alta elfa
-- **Thorgrum Grayfist** — enano monje de la mano abierta (una de sus estatuas está en el sendero de entrada al monasterio de Jing)
-- **Drankuar Qelzavur** — dracónido guerrero
-
-Lograron exiliar a la entidad maligna **Zekthuragh** usando un artefacto arcano. Tres de ellos murieron en la batalla, pero Misseltoe rogó a Tyr y logró traerlos de vuelta. Luego partieron a las montañas del ocaso a guarecer sus riquezas en las ruinas de Dhagh Badur. Misseltoe fundó el **Fuerte Gris** como refugio para quienes necesiten protección.
-
 ### Lugares de Elyok
 
 ### Edificaciones principales
@@ -73,8 +45,6 @@ Lograron exiliar a la entidad maligna **Zekthuragh** usando un artefacto arcano.
 Atendida por **Dolg Embriagaduendes**, un mediano muy perspicaz que tratará de sacar provecho de los aventureros despistados.
 
 Alojamiento por noche con desayuno incluido: entre **8 pp y 20 pp** (dependiendo de a quién).
-
-**Bran Cuerdas Chillantes** (semielfo de rubios cabellos) suele estar aquí y conoce la existencia de los Capas Grises.
 
 #### Herrería: El gran Ronder
 
@@ -86,23 +56,11 @@ Atendida por **Bulden**, un humano anciano que habla de la muerte muy chistosame
 
 #### Joyería: El rubí marino
 
-Atendida por **Berwald Shortfeet**, un mediano miembro de los Capas Grises. Punto de contacto para quienes busquen a la orden.
+Atendida por **Berwald Shortfeet**, un mediano.
 
 #### Herbolario: Orquídea silvestre
 
-Atendido por **Aennition Keopever**, un gnomo.
-
-| Producto | Precio | Stock |
-| :--- | :--- | :--- |
-| Poción de curación | 50 po | 7 |
-| Poción de curación mayor | 100 po | 4 |
-| Poción de curación superior | 150 po | 3 |
-| Elixir of Swimming | 250 po | 3 |
-| Oil of Invisibility | 300 po | 2 |
-| Potion of Fly | 750 po | 2 |
-| Potion of Reduce Person | 250 po | 3 |
-| Potion of Shield of Faith (+3) | 300 po | 1 |
-| Sovereign Glue | 2400 po | 1 |
+Atendido por **Aennition Keopever**, un gnomo. Variedad de pociones y objetos alquímicos — desde lo económico hasta artículos de precio elevado como *Sovereign Glue*.
 
 #### Tienda de botes: Len
 
@@ -118,29 +76,9 @@ Atendida por **Garegel**, un humano anciano. Vende libros de cuentos, novelas y 
 
 Atendida por **John Grimke**, un humano de 48 años. Esta posada se encuentra al sudoeste de la ciudad. Precio por noche: **5 pp**.
 
-Su **sótano** es el lugar predilecto de los Capas Grises para reunirse. Allí, Mifrith guarda un armario protegido con un glifo que contiene:
-
-- 4 pociones de curación
-- 4 pociones de curación mayores
-- 4000 po
-- Libro de conjuros resistente (con conjuros de nivel 1 a 3)
-- Cinturón de piel de dragón +1
-- Guadaña +1
-- Casco de comprender lenguas
-
 #### Tienda de objetos de aventura: Ruta del explorador
 
-Atendida por **Burl Pies Rápidos**, un mediano. Se encuentra en la zona oeste de la ciudad.
-
-| Producto | Precio | Stock |
-| :--- | :--- | :--- |
-| Equipo no mágico | Ver tabla del manual | — |
-| Amuleto de relojería | 400 po | 1 |
-| Espada larga tocada por la luna | 165 po | 1 |
-| Rubí del mago de guerra | 80 po | 1 |
-| Capa de protección | 3500 po | 1 |
-| Collar de bolas de fuego (2 cargas) | 480 po | 1 |
-| Cuerno explosivo | 450 po | 1 |
+Atendida por **Burl Pies Rápidos**, un mediano. Se encuentra en la zona oeste de la ciudad. Vende equipo de aventura común y algunos objetos mágicos de precio elevado.
 
 #### Ayuntamiento
 
@@ -154,17 +92,3 @@ Situado casi en el centro de la ciudad. Grandes puertas de madera custodiadas po
 
 Puerto menor utilizado para recibir cargamentos militares y operaciones discretas.
 
-### Capítulos de campaña asociados
-
-1. **La deuda de Bran** — Llegada a Elyok en *La gran mantícora*, capitán Earic Ronlett.
-2. **El rescate del templo Yuan-Ti** — Secuestro de 3 jóvenes (Elise, Dhia y Lerem) ocurrido hace dos noches.
-3. **El asedio no muerto** — Misión en Valdville.
-4. **Ladrones de ganado** — Campamento orco al sur de Valdville.
-5. **El secuestro de armamento** — Golpe contra un cargamento militar que llega al puerto secundario.
-6. **Los lengua de serpiente** — Banda criminal que opera al sudeste de Elyok, en el subsuelo de un antiguo galpón.
-7. **La vara escondida** — *Vara del pacto devoto*, escondida por Nath Roling al noreste de Elyok, cerca de la Selva Frondosa.
-8. **La ejecución de sospechosos** — Infiltración en el gran cuartel durante una ejecución pública dirigida por Hales Sephann.
-9. **Discípulos de Zekt** — Reunión en el ayuntamiento con Zilyana Craxalim y dos duergars.
-10. **¿En la infraoscuridad?** — Entrada a la Infraoscuridad por las puertas de Dhrüm Khulbar, custodiadas por los enanos de Dhurmedan.
-11. **Investigando a Baldceol** — Información sobre Baldceol, Hales Sephann, y colaboradores de la guardia.
-12. **Volviendo a Elyok luego del Fuerte Gris** — Enfrentamiento con Mifrith, el anillo de Abael Stormstep.
